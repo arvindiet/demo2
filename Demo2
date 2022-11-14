@@ -1,0 +1,6 @@
+Sudo systemctl start docker
+Sudo systemctl status docker 
+Sudo systemctl enable docker
+Git clone
+Cd 
+Sudo docker build -t webapp
